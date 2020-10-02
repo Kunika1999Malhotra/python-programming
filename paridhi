@@ -1,4 +1,4 @@
-#Power of a number using loops
+#Power of a number using loops using pyhton
 num=int(input("Enter a number"))
 for i in range(1,11):
 	c=num**i
